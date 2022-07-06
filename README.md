@@ -23,11 +23,11 @@ arrow_up [к оглавлению](#1)
 
 Техническая задача специалиста Data Science: построить модель машинного обучения, которая на основе предложенных характеристик клиента будет предсказывать, воспользуется он предложением об открытии депозита или нет.
 
-arrow_up [к оглавлению](#1)
+[image.png](https://github.githubassets.com/images/icons/emoji/unicode/2b06.png) arrow_up [к оглавлению](#1)
 
 #### Краткая информация о данных <a name="данных"></a>
 
-Предоставлен датасет
+[Предоставлен датасет](https://lms.skillfactory.ru/assets/courseware/v1/dab91dc74eb3cb684755123d224d262b/asset-v1:SkillFactory+DSPR-2.0+14JULY2021+type@asset+block/bank_fin.zip)
 
 Данные о клиентах банка:
 
